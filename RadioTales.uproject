@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.23",
+	"EngineAssociation": "{BD5C61C7-4D29-F3C4-598E-80827D5D0886}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -11,6 +11,11 @@
 		{
 			"Name": "SoundUtilities",
 			"Enabled": true
+		},
+		{
+			"Name": "DlgSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6d0255a60be340dfa1c556503cc57eb3"
 		}
 	]
 }
